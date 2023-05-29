@@ -7,4 +7,4 @@ Para compilar:
 g++ main.cpp -lpthread -o app -std=c++17   
   
 Para correr:   
-./main ./test. 
+./main ./test  
